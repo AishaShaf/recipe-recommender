@@ -161,3 +161,6 @@ cython_debug/
 
 # custom
 *.csv
+
+# DS Store to be ignored
+.DS_Store
