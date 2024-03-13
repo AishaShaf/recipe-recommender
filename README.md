@@ -1,4 +1,3 @@
-# recipe-recommender
 # Recipe Recommender
 This is a web application built with Dash that helps users find the perfect recipe to prevent their leftovers from going to waste. The application allows users to filter recipes based on ingredients, cuisine, and time to make.
 
